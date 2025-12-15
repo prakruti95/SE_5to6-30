@@ -1,0 +1,2 @@
+find fibonaaci of given number 
+find factorial of given number
