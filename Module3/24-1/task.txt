@@ -1,0 +1,10 @@
+1.
+take a user input from one class and this is parent class inherit that class 
+in other three class and multiply all the values
+
+2.
+also complete given task 
+shape
+rec
+circle
+triangle perform hierarchical and find the area of circle 
