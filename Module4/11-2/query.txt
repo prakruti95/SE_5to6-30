@@ -40,4 +40,19 @@ DROP TABLE information
 TRUNCATE TABLE TABLE_NAME
 TRUNCATE TABLE information
 
+DML
+11. insert data
+insert into tablename (database Field nm) values ('control value')
+
+12. multiple value insert
+INSERT INTO tablename (countrynm) VALUES('india'), ('pakistan')
+
+
+13. update data
+update tablenm set databasefieldnm='controlvalue' where id='id'
+
+14. delete data
+delete from tablenm where id='id'
+
+
 id,name,mobile,email,city
