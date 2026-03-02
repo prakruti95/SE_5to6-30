@@ -9,6 +9,8 @@ void main()
     {
         for(int j=0;j<3;j++)
         {
+            
+
             printf("\n [%d] [%d] = %d",i,j,data[i][j]);
         }
        
